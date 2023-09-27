@@ -1,0 +1,1 @@
+video_tag/src/motion_analysis/models/multi_pose_dla_3x.pth http://ai-servitization-test.oss-cn-beijing.aliyuncs.com/AI_OpenSource%2Fvideo_tag%2Fsrc%2Fmotion_analysis%2Fmodels%2Fmulti_pose_dla_3x.pth?OSSAccessKeyId=LTAI4FoGCvbhbuDm8eQm5peZ&Expires=1697036968&Signature=1X0jQ2RfT%2B6AOvk27vdWooGnTN4%3D
